@@ -314,18 +314,6 @@
                 href="//localhost:1313/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
-                />
-  </url><url>
     <loc>//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/</loc>
     <xhtml:link
                 rel="alternate"
@@ -336,6 +324,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/"
+                />
+  </url><url>
+    <loc>//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
                 />
   </url><url>
     <loc>//localhost:1313/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/</loc>

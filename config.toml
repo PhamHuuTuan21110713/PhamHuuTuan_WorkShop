@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Create a new AWS account."
+title = "Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot"
 weight = 1
 languageName = "English"
 
@@ -35,7 +35,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "Tạo mới tài khoản AWS"
+title = "Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot"
 weight = 2
 languageName = "Tiếng Việt"
 

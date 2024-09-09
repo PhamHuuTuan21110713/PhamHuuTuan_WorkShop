@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unit Testing cho các lớp Repository on Tạo mới tài khoản AWS</title>
+    <title>Unit Testing cho các lớp Repository on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</title>
     <link>//localhost:1313/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/</link>
-    <description>Recent content in Unit Testing cho các lớp Repository on Tạo mới tài khoản AWS</description>
+    <description>Recent content in Unit Testing cho các lớp Repository on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <atom:link href="//localhost:1313/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/index.xml" rel="self" type="application/rss+xml" />

@@ -14,6 +14,18 @@
                 href="//localhost:1313/1-config-environment/1-connecting-ec2/"
                 />
   </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/1-table-database-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/1-table-database-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/1-table-database-module2/"
+                />
+  </url><url>
     <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +74,18 @@
                 href="//localhost:1313/2-module-1-find-flights-api/2-model-classes-module1/"
                 />
   </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/2-model-classes-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/2-model-classes-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/2-model-classes-module2/"
+                />
+  </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,6 +110,18 @@
                 href="//localhost:1313/1-config-environment/2-config-cognito/"
                 />
   </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/3-jpa-repository-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
+                />
+  </url><url>
     <loc>//localhost:1313/1-config-environment/3-configsns-to-send-email/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,18 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/1-config-environment/3-configsns-to-send-email/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/"
                 />
   </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/3-dto-module1/</loc>
@@ -122,16 +146,16 @@
                 href="//localhost:1313/2-module-1-find-flights-api/3-dto-module1/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-testing-api-with-postman/</loc>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-testing-api-with-postman/"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-testing-api-with-postman/"
+                href="//localhost:1313/3-module-2-flight-reservation-api/"
                 />
   </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/4-jpa-repository-interface-module1/</loc>
@@ -158,6 +182,42 @@
                 href="//localhost:1313/1-config-environment/4-config-mysql-to-connect-rds/"
                 />
   </url><url>
+    <loc>//localhost:1313/4-testing-api-with-postman/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/4-testing-api-with-postman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/4-testing-api-with-postman/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
+                />
+  </url><url>
+    <loc>//localhost:1313/5-clean-up/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/5-clean-up/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/5-clean-up/"
+                />
+  </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/5-config-datasource-module1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,6 +228,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/2-module-1-find-flights-api/5-config-datasource-module1/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
                 />
   </url><url>
     <loc>//localhost:1313/1-config-environment/5-openning-project-intelij/</loc>
@@ -194,6 +266,18 @@
                 href="//localhost:1313/2-module-1-find-flights-api/6-service-classes-module1/"
                 />
   </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/6-service-classes-module2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/6-service-classes-module2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/6-service-classes-module2/"
+                />
+  </url><url>
     <loc>//localhost:1313/1-config-environment/6-setup-amazonq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -206,6 +290,78 @@
                 href="//localhost:1313/1-config-environment/6-setup-amazonq/"
                 />
   </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/8-dto-reservation-details/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/8-dto-reservation-details/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/9-book-flight-api-controller/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
+                />
+  </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/10-exception-handler-module1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -216,6 +372,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/2-module-1-find-flights-api/10-exception-handler-module1/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
                 />
   </url><url>
     <loc>//localhost:1313/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/</loc>
@@ -240,174 +408,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/2-module-1-find-flights-api/12-unit-test-find-flights-api/"
-                />
-  </url><url>
-    <loc>//localhost:1313/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
-                />
-  </url><url>
-    <loc>//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
-                />
-  </url><url>
-    <loc>//localhost:1313/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/1-table-database-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/1-table-database-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/1-table-database-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/2-model-classes-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/2-model-classes-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/2-model-classes-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/3-jpa-repository-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/6-service-classes-module2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/6-service-classes-module2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/6-service-classes-module2/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/8-dto-reservation-details/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/8-dto-reservation-details/"
-                />
-  </url><url>
-    <loc>//localhost:1313/3-module-2-flight-reservation-api/9-book-flight-api-controller/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
-                />
-  </url><url>
-    <loc>//localhost:1313/5-clean-up/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/5-clean-up/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/5-clean-up/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/</loc>

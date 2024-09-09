@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tạo chi tiết đặt chỗ DTO (DTO Reservation Details) on Tạo mới tài khoản AWS</title>
+    <title>Tạo chi tiết đặt chỗ DTO (DTO Reservation Details) on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</title>
     <link>//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/</link>
-    <description>Recent content in Tạo chi tiết đặt chỗ DTO (DTO Reservation Details) on Tạo mới tài khoản AWS</description>
+    <description>Recent content in Tạo chi tiết đặt chỗ DTO (DTO Reservation Details) on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <atom:link href="//localhost:1313/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/index.xml" rel="self" type="application/rss+xml" />
