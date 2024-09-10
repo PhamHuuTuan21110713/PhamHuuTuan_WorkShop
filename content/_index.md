@@ -20,7 +20,7 @@ chapter : false
     - Create Unit Test Scripts for the Classes
 #### Modules
 
-- Our application consists of 2 Modules, including:
+- Our application consists of 2 Modules including:
     1. **Find flights**
     - This API will get a list of flights based on query parameters departure date, departure city and arrival city. In this module you will use Amazon Q Developer to implement integration with Amazon Cognito, AWS Secrets Manager and Amazon RDS using Spring Data JPA.
     1. **Book flight**
