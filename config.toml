@@ -10,7 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   # editURL = "https://github.com/PhamHuuTuan21110713/PhamHuuTuan_Workshop.git"
-  baseURL = "https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop_Deploy/"
+  baseURL = "https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/"
   description = ""
   author = "journeyoftheaverageguy@gmail.com"
   showVisitedLinks = true
