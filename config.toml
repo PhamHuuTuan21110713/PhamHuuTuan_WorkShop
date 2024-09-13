@@ -1,7 +1,7 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
-canonifyURL = true
+# canonifyURL = true
 baseURL = "https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/"
 
 # For search functionality
