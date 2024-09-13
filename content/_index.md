@@ -27,7 +27,7 @@ chapter : false
     - This API will reserve the flight and send a confirmation email to the passenger with booking details. In this module you will use Amazon Q Developer to implement input data validation, data mapping, custom exception handling, transaction management and notification using Amazon SNS. Module 2 leverages some of the code built in Module 1. So it is recommended to complete Module 1 before proceeding to Module 2.
   
 #### Architecture
-![image.png](/images/Kientruc/image.png/)
+![image.png](images/Kientruc/image.png/)
 #### Content
 
 1. [Setup Development Environment](1-config-environment/)
