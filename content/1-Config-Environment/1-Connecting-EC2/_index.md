@@ -44,7 +44,7 @@ pre : " <b> 1.1 </b> "
         
         ![image.png](/images/setup_environment/setup_ec2/image_8.png)
         
-    -After entering **Security group**, scroll down and select **Inbound rules**, then select **Edit inbound rules**.
+    - After entering **Security group**, scroll down and select **Inbound rules**, then select **Edit inbound rules**.
         
         ![image.png](/images/setup_environment/setup_ec2/image_9.png)
         
