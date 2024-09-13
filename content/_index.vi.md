@@ -27,7 +27,7 @@ chapter : false
     - API này sẽ đặt trước chuyến bay và gửi email xác nhận cho hành khách kèm theo chi tiết đặt chỗ. Trong module này, chúng ta sẽ sử dụng Amazon Q Developer để triển khai xác thực dữ liệu đầu vào, ánh xạ dữ liệu, xử lý ngoại lệ, thông báo bằng Amazon SNS. Module 2 tận dụng một số code được xây dựng trong module 1.
   
 #### Kiến trúc
-![image.png](/images/Kientruc/image.png/)
+![image.png](/images/Kientruc/image.png)
 #### Nội dung chính
 
 1. [Thiết lập môi trường](1-config-environment/)
