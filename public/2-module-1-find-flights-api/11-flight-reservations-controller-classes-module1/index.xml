@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Create the FlightReservation Controller class on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</title>
-    <link>/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/</link>
+    <link>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/</link>
     <description>Recent content in Create the FlightReservation Controller class on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
