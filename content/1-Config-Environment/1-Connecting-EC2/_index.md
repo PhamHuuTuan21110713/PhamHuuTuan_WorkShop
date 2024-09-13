@@ -8,7 +8,7 @@ pre : " <b> 1.1 </b> "
 
 - **Create stack and load into .yaml file to get preconfigured resources**
     
-    ![image.png](PhamHuuTuan_Workshop/images/setup_environment/setup_ec2/image.png)
+    ![image.png](/images/setup_environment/setup_ec2/image.png)
     
 - **Retrieve Credentials for your AWS provided development EC2 instance**
     - Once you have accessed the AWS console, enter Secrets in the search box at the top of the page. Under Services, an entry for Secrets Manager will be visible. Click it to open the AWS Secrets Manager service page.
