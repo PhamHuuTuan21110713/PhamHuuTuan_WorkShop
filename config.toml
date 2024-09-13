@@ -1,8 +1,8 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
-# canonifyURL = true
-
+canonifyURLs = true
+baseURL = "https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/"
 
 # For search functionality
 [outputs]
@@ -14,7 +14,7 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   # editURL = "https://github.com/PhamHuuTuan21110713/PhamHuuTuan_Workshop.git"
-  baseURL = "https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/"
+  
   description = ""
   author = "journeyoftheaverageguy@gmail.com"
   showVisitedLinks = true
