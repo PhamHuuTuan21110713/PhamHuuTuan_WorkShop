@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kết nối EC2 on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</title>
-    <link>/vi/1-config-environment/1-connecting-ec2/</link>
+    <link>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/1-connecting-ec2/</link>
     <description>Recent content in Kết nối EC2 on Amazon Q Developer Workshop - Build enterprise Java application with Spring Boot</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="/vi/1-config-environment/1-connecting-ec2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/1-connecting-ec2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
