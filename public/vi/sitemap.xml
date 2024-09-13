@@ -2,436 +2,436 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/</loc>
+    <loc>/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/"
+                href="/vi/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/1-connecting-ec2/</loc>
+    <loc>/vi/1-config-environment/1-connecting-ec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/1-connecting-ec2/"
+                href="/1-config-environment/1-connecting-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/1-connecting-ec2/"
+                href="/vi/1-config-environment/1-connecting-ec2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/1-table-database-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/1-table-database-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/1-table-database-module2/"
+                href="/3-module-2-flight-reservation-api/1-table-database-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/1-table-database-module2/"
+                href="/vi/3-module-2-flight-reservation-api/1-table-database-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/1-table-database-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/1-table-database-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/1-table-database-module1/"
+                href="/2-module-1-find-flights-api/1-table-database-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/1-table-database-module1/"
+                href="/vi/2-module-1-find-flights-api/1-table-database-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/</loc>
+    <loc>/vi/1-config-environment/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/"
+                href="/1-config-environment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/"
+                href="/vi/1-config-environment/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/2-config-cognito/</loc>
+    <loc>/vi/1-config-environment/2-config-cognito/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/2-config-cognito/"
+                href="/1-config-environment/2-config-cognito/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/2-config-cognito/"
+                href="/vi/1-config-environment/2-config-cognito/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/</loc>
+    <loc>/vi/2-module-1-find-flights-api/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/"
+                href="/2-module-1-find-flights-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/"
+                href="/vi/2-module-1-find-flights-api/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/2-model-classes-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/2-model-classes-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/2-model-classes-module1/"
+                href="/2-module-1-find-flights-api/2-model-classes-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/2-model-classes-module1/"
+                href="/vi/2-module-1-find-flights-api/2-model-classes-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/2-model-classes-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/2-model-classes-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/2-model-classes-module2/"
+                href="/3-module-2-flight-reservation-api/2-model-classes-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/2-model-classes-module2/"
+                href="/vi/3-module-2-flight-reservation-api/2-model-classes-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/3-configsns-to-send-email/</loc>
+    <loc>/vi/1-config-environment/3-configsns-to-send-email/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/3-configsns-to-send-email/"
+                href="/1-config-environment/3-configsns-to-send-email/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/3-configsns-to-send-email/"
+                href="/vi/1-config-environment/3-configsns-to-send-email/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/"
+                href="/3-module-2-flight-reservation-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/"
+                href="/vi/3-module-2-flight-reservation-api/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/3-dto-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/3-dto-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/3-dto-module1/"
+                href="/2-module-1-find-flights-api/3-dto-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/3-dto-module1/"
+                href="/vi/2-module-1-find-flights-api/3-dto-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
+                href="/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
+                href="/vi/3-module-2-flight-reservation-api/3-jpa-repository-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/4-config-mysql-to-connect-rds/</loc>
+    <loc>/vi/1-config-environment/4-config-mysql-to-connect-rds/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/4-config-mysql-to-connect-rds/"
+                href="/1-config-environment/4-config-mysql-to-connect-rds/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/4-config-mysql-to-connect-rds/"
+                href="/vi/1-config-environment/4-config-mysql-to-connect-rds/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/4-testing-api-with-postman/</loc>
+    <loc>/vi/4-testing-api-with-postman/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/4-testing-api-with-postman/"
+                href="/4-testing-api-with-postman/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/4-testing-api-with-postman/"
+                href="/vi/4-testing-api-with-postman/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/4-jpa-repository-interface-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/4-jpa-repository-interface-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/4-jpa-repository-interface-module1/"
+                href="/2-module-1-find-flights-api/4-jpa-repository-interface-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/4-jpa-repository-interface-module1/"
+                href="/vi/2-module-1-find-flights-api/4-jpa-repository-interface-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
+                href="/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
+                href="/vi/3-module-2-flight-reservation-api/4-unit-test-repository-classes-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/5-config-datasource-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/5-config-datasource-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/5-config-datasource-module1/"
+                href="/2-module-1-find-flights-api/5-config-datasource-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/5-config-datasource-module1/"
+                href="/vi/2-module-1-find-flights-api/5-config-datasource-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/5-clean-up/</loc>
+    <loc>/vi/5-clean-up/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/5-clean-up/"
+                href="/5-clean-up/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/5-clean-up/"
+                href="/vi/5-clean-up/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/5-openning-project-intelij/</loc>
+    <loc>/vi/1-config-environment/5-openning-project-intelij/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/5-openning-project-intelij/"
+                href="/1-config-environment/5-openning-project-intelij/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/5-openning-project-intelij/"
+                href="/vi/1-config-environment/5-openning-project-intelij/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
+                href="/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
+                href="/vi/3-module-2-flight-reservation-api/5-handle-bussiness-exceptions-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/6-setup-amazonq/</loc>
+    <loc>/vi/1-config-environment/6-setup-amazonq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/1-config-environment/6-setup-amazonq/"
+                href="/1-config-environment/6-setup-amazonq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/1-config-environment/6-setup-amazonq/"
+                href="/vi/1-config-environment/6-setup-amazonq/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/6-service-classes-module2/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/6-service-classes-module2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/6-service-classes-module2/"
+                href="/3-module-2-flight-reservation-api/6-service-classes-module2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/6-service-classes-module2/"
+                href="/vi/3-module-2-flight-reservation-api/6-service-classes-module2/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/6-service-classes-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/6-service-classes-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/6-service-classes-module1/"
+                href="/2-module-1-find-flights-api/6-service-classes-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/6-service-classes-module1/"
+                href="/vi/2-module-1-find-flights-api/6-service-classes-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
+                href="/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
+                href="/vi/3-module-2-flight-reservation-api/7-unit-test-flightbooking-service-classes/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
+                href="/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
+                href="/vi/2-module-1-find-flights-api/7-unit-test-repository-classes-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/8-dto-reservation-details/"
+                href="/3-module-2-flight-reservation-api/8-dto-reservation-details/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/"
+                href="/vi/3-module-2-flight-reservation-api/8-dto-reservation-details/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
+                href="/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
+                href="/vi/2-module-1-find-flights-api/8-unit-test-service-classes-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
+                href="/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
+                href="/vi/2-module-1-find-flights-api/9-get-cognito-pkeys-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
+                href="/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
+                href="/vi/3-module-2-flight-reservation-api/9-book-flight-api-controller/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/</loc>
+    <loc>/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
+                href="/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
+                href="/vi/3-module-2-flight-reservation-api/10-unit-test-reserve-flight-api/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/10-exception-handler-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/10-exception-handler-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/10-exception-handler-module1/"
+                href="/2-module-1-find-flights-api/10-exception-handler-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/10-exception-handler-module1/"
+                href="/vi/2-module-1-find-flights-api/10-exception-handler-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/</loc>
+    <loc>/vi/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/"
+                href="/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/"
+                href="/vi/2-module-1-find-flights-api/11-flight-reservations-controller-classes-module1/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/12-unit-test-find-flights-api/</loc>
+    <loc>/vi/2-module-1-find-flights-api/12-unit-test-find-flights-api/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/2-module-1-find-flights-api/12-unit-test-find-flights-api/"
+                href="/2-module-1-find-flights-api/12-unit-test-find-flights-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/2-module-1-find-flights-api/12-unit-test-find-flights-api/"
+                href="/vi/2-module-1-find-flights-api/12-unit-test-find-flights-api/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/categories/</loc>
+    <loc>/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/categories/"
+                href="/vi/categories/"
                 />
   </url><url>
-    <loc>https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/tags/</loc>
+    <loc>/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://phamhuutuan21110713.github.io/PhamHuuTuan_Workshop/vi/tags/"
+                href="/vi/tags/"
                 />
   </url>
 </urlset>
